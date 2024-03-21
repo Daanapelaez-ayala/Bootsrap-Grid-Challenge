@@ -1,5 +1,41 @@
 .right {
- float: right;
+ text-align: right;
 }
-
-
+.left 
+{
+   text-align: left;
+}
+ .card{
+background-color: #8e7bff;
+}
+.card-body {
+    text-align: left;
+    color: white;
+}
+.h1 {
+color: white;
+}
+.button {
+    background-color: #80ea99 ;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+.button2 {
+    background-color: #8e7bff;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
