@@ -32,10 +32,21 @@ color: white;
     border: none;
     color: white;
     padding: 20px;
-    text-align: center;
+    text-align: right;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
     border-radius: 50%;
+}
+.picture {
+float: right;
+}
+.bottom {
+    position: absolute;
+    bottom: 0;
+   
+}
+.font {
+     font-size: 25px;
 }
